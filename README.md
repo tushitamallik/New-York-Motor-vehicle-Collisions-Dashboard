@@ -1,5 +1,7 @@
 # New-York-Motor-vehicle-Collisions-Dashboard
 Build interactive web applications with Streamlit and Python. Use Pandas for data manipulation in data science workflows.
+• Developed an interactive data exploration web app using Python's Streamlit library using traffic data to visualize which area in the city is more prone to traffic accidents.
+• Demonstrated skills in data loading, exploration, visualization, and dashboard creation.
 
 ## Objectives
 1. Build interactive web applications with Streamlit and Python
